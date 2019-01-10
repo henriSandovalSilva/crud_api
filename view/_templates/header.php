@@ -37,7 +37,7 @@
 </div>
 <div class="container box-page">
     <div class="row">
-        <div class="hidden-xs hidden-sm col-md-4 col-lg-3 sidebar-offcanvas">
+        <div class="hidden-xs hidden-sm col-md-4 col-lg-3">
             <div class="list-group">
                 <a href="<?php echo URL; ?>/home" class="list-group-item"><i class="fa fa-home"></i> Home</a>
                 <a href="<?php echo URL; ?>/local" class="list-group-item"><i class="fa fa-globe-americas"></i>
