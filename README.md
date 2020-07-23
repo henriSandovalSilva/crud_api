@@ -6,6 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - PHP
 - MVC
+- POO
 - [MINIIII](https://github.com/panique/mini3)
 - HTML5
 - CSS3
