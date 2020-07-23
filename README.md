@@ -1,15 +1,24 @@
-# crud_api
+![Logo MINIIII](https://github.com/panique/mini3/raw/master/_install/mini3.png)
 
-CRUD de locais (estado, cidade e bairro) com consulta a API de imóveis.
+## :rocket: Tecnologias
 
-## Configuração
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-1. Crie um banco de dados MySQL e importe o arquivo .sql que está em ./sql/henri.sql
-2. Altere as informações do banco de dados que está em ./core/Model.php
+- PHP
+- MVC
+- [MINIIII](https://github.com/panique/mini3)
+- HTML5
+- CSS3
+- Javascript
+- JQuery
+- Ajax
+- Datatables
+- MySQL
 
-## Informações
+## 💻 Projeto
 
-- Utilizei o plugin JavaScript "DataTables" nas tabelas;
-- Para as cidades e estados usei outro plugin (https://gist.github.com/ografael/2037135), porém fiz umas alterações no mesmo para me atender;
-- Na página com os imóveis, utilizei o plugin "Fresco.js" para que ao clicar nas imagens, a mesma seja expandida;
-- No modal que contém os detalhes do imóvel eu usei Ajax para buscar e atualizar os dados na view.
+O projeto contém um CRUD básico de cidades e estados.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
